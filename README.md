@@ -11,8 +11,8 @@
 - 🔭 Check out my courses:&nbsp;[course]!
 - 🌱 I’m currently shifting from Cyber Security to Full Stack web Development
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn about full stack web development 
-- 🥅 2023 Goals: Learn about web3 
+- 🥅 2023 Goals: Learn about full stack web development 
+- 🥅 2024 Goals: Learn about web3 
 - ⚡ Fun fact: I love to record online tutorials 
 
 ### Connect with me:
